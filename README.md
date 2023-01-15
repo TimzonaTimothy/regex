@@ -1,3 +1,3 @@
-#   This JavaScript code shows how encapsulation works in JavaScript
+#   This JavaScript code shows validation of virtual cards in JavaScript
 
 > Use Nodejs to run and test the code
