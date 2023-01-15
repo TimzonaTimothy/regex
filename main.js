@@ -1,3 +1,8 @@
+//learnable task
+//Write a JavaScript program to validate a credit card number.
+
+//Program to valid visa card
+
 let sample = "4000000000099";
 
 const my_regex = /^4[0-9]{12}(?:[0-9]{3})?$/;
